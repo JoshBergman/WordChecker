@@ -1,0 +1,10 @@
+These are example words
+that will be checked when you run the program
+
+seperate your words using spaces like this
+or
+newlines
+like
+this
+
+(Delete before running if you use this as your word bank)

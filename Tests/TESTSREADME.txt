@@ -1,0 +1,1 @@
+In order to use these tests, you must move them to the /WordChecker directory (main directory).
