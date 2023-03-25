@@ -56,6 +56,4 @@ The user is able to input words, which are then compared to the node tree letter
 
 
 ***Features To Be Added:***
-- Visual interface
-- Less user input (Better pathing and more of a plug-and-play approach)
 - Ability to save node tree for large word banks that are inefficient to re-render every time
